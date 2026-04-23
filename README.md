@@ -74,9 +74,12 @@ static LoRa_config txLoRa = {LoRa_frek_INA_923, 12, 125000, 5, true, false, 0x34
 
 <img width="500" height="300" alt="Lora4 pptx (2)" src="https://github.com/user-attachments/assets/9fab3b19-7960-416a-b3d8-f216997fbbf2" />
 
+Silahkan menuju ke : https://www.aisi555.com/2024/05/lorawan-antares-menampilkan-grafik-di.html
+
+
 # Praktek
 
-<img width="960" height="540" alt="Lora4 pptx (3)" src="https://github.com/user-attachments/assets/e5cfdc56-36f3-482b-b528-7d0a80e6e3d2" />
+<img width="500" height="300" alt="Lora4 pptx (3)" src="https://github.com/user-attachments/assets/e5cfdc56-36f3-482b-b528-7d0a80e6e3d2" />
 
 <img width="500" height="300" alt="Lora4 pptx (4)" src="https://github.com/user-attachments/assets/31160031-47b5-40ac-8754-09bbed819e54" />
 
