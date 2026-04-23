@@ -52,7 +52,7 @@ struct LoRa_config
   int PreambleLength;
 };
 
-//jika ingin scanning ke semua frekuensi, guanakan ini ========
+//jika ingin scanning ke semua frekuensi, gunakan ini ========
 //hapus atau // jika menggunakan frekuensi statis
 
 long LoRa_frek_INA_923_start = 921200000 ;
